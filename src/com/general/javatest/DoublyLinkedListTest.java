@@ -1,3 +1,5 @@
+package com.general.javatest;
+
 public class DoublyLinkedListTest {
     public static void main(String... args) {
         DoublyLinkedList<Integer> list = new DoublyLinkedList<>();

@@ -1,3 +1,4 @@
+package com.general.javatest;
 
 public class DoublyLinkedList<E> {
 
@@ -9,6 +10,10 @@ public class DoublyLinkedList<E> {
         head = null;
         tail = null;
         size = 0;
+    }
+
+    public int size(){
+        return size;
     }
 
     /**

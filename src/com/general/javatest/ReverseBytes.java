@@ -1,3 +1,5 @@
+package com.general.javatest;
+
 public class ReverseBytes {
 
     public static void main(String... args) {

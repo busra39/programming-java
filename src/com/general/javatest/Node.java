@@ -1,3 +1,5 @@
+package com.general.javatest;
+
 public class Node {
 
     private int data;
